@@ -21,6 +21,7 @@ func main() {
 	} else {
 		log.Println("Cat is not cat")
 	}
+	
 
 	myNum := 100
 	isTrue = false
